@@ -1,0 +1,15 @@
+{
+  "name": "html-partials",
+  "version": "0.1.0",
+  "main": "html-partials.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvanin/html-partials.git"
+  },
+  "author": "Yuri Vanin",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/yvanin/html-partials/issues"
+  },
+  "homepage": "https://github.com/yvanin/html-partials#readme"
+}
